@@ -3,9 +3,10 @@
     "main": {
       "type": "main-index",
       "settings": {
-        "title": "Main Index"
       }
     }
   },
-  "order": ["main"]
+  "order": [
+    "main"
+  ]
 }
